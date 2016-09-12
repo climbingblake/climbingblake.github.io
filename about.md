@@ -19,20 +19,20 @@ I run the site [BadBolts.com](https://www.BadBolts.com), which crowd-sources rus
 * [AMGA](http://amga.com) Certified Instructor
 
 
-<img style="float: right; width:200px; margin:8px" src="http://blakebowling.s3.amazonaws.com/logos-backgrounds/jtree.png" />
+<img style="float: right; width:200px; margin:8px" src="http://blakebowling.s3.amazonaws.com/logos-backgrounds/jtree.png" alt="Jtree Life" />
 
-<img style="float: right; width:200px; margin:8px" src="http://blakebowling.s3.amazonaws.com/2014/04/aac_letter_logo.jpg" />
+<img style="float: right; width:200px; margin:8px" src="http://blakebowling.s3.amazonaws.com/2014/04/aac_letter_logo.jpg" alt="AAC"/>
 
-<img style="float: right; width:200px; margin:8px" src="http://blakebowling.s3.amazonaws.com/logos-backgrounds/bad_bolts_3x4.png" />
+<img style="float: right; width:200px; margin:8px" src="http://blakebowling.s3.amazonaws.com/logos-backgrounds/bad_bolts_3x4.png" alt="BadBolts.com"/>
 
-<img style="float: right; width:200px;margin:8px" src="http://blakebowling.s3.amazonaws.com/logos-backgrounds/evolv_200.png" />
+<img style="float: right; width:200px;margin:8px" src="http://blakebowling.s3.amazonaws.com/logos-backgrounds/evolv_200.png" alt="EvolvSports.com"/>
 
-<img style="float: right; width:200px; margin:8px" src="http://blakebowling.s3.amazonaws.com/logos-backgrounds/amga_logo.jpg" />
+<img style="float: right; width:200px; margin:8px" src="http://blakebowling.s3.amazonaws.com/logos-backgrounds/amga_logo.jpg" alt="AMGA"/>
 
 
 <hr style="clear:both">
 
-<img style="width:800px" src="http://blakebowling.s3.amazonaws.com/logos-backgrounds/8320_redrivergorge_20131010_web.jpg">
+<img style="width:800px" src="http://blakebowling.s3.amazonaws.com/logos-backgrounds/8320_redrivergorge_20131010_web.jpg" alt="Bolting at the RRG">
 
 
 Photo by Jakob Skogheim [www.jakobskogheim.com](http://www.jakobskogheim.com)
