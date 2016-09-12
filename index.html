@@ -1,0 +1,89 @@
+---
+layout: landing
+---
+
+<section id="banner">
+	<div class="inner">
+		<h2>{{ site.title }}</h2>
+		<p>{{ site.description | markdownify }}</p>
+<!-- 		<ul class="actions">
+			<li><a href="#" class="button special">Continue</a></li>
+		</ul> -->
+	</div>
+	<a href="#blog" class="more scrolly">Blog</a>
+</section>
+
+<section class="wrapper style1">
+	<div class="inner">
+		<header class="major" >
+			<p><pre  style="background-color:#353535"><code style="padding-top:0px; padding-bottom:25px" class="ruby">
+				Time.each do |t|
+				&nbsp;&nbsp;unless t.programming? then t.climbing = true
+				end</code></pre>
+			</p>
+		</header>
+	</div>
+</section>
+
+<section class="wrapper style1">
+	<div class="inner">
+		<h1>Instagram @ClimbingBlake </h1>
+		<!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/48ff8efeb6c35d8480aa21b49c8f877b.html" id="lightwidget_48ff8efeb6" name="lightwidget_48ff8efeb6"  scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+	</div>
+</section>
+
+
+<div id="page-content">
+	<div class="wrapper style2" id="blog">
+		<h1>Posts</h1>
+		<div id="postlist" class="postlist">
+
+			{% for post in site.posts %}
+			  {% if post.quote  %}
+					<article class="post tag-quote postinlist quote single" >
+						<div class="background" style="background-image:url({{ post.backgroundimage }});opacity: 0.35;"></div>
+						<div class="inner">
+							<div class="content">
+								<blockquote>
+					  <p>{{ post.content }}</p>
+					</blockquote>
+							</div>
+						</div>
+					</article>
+				{% elsif post.backgroundimage %}
+					<article class="post tag-climbing tag-imagebg postinlist standard single imagebackground">
+						<div class="background" style="background-image:url('{{ post.backgroundimage }}');opacity: 0.35;"></div>
+						<div class="inner">
+							<div class="category">
+								<a href="/tag/climbing/">climbing</a><a href="/tag/imagebg/">imagebg</a>
+							</div>
+							<h2 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+							<hr>
+						</div>
+					</article>
+				{% else %}
+					<article class="post postinlist standard single" >
+						<div class="header">
+							<a href="{{ post.url }}" class="overlay">
+								<span>Read More</span>
+							</a>
+							<img src="{{ post.image }}" class="lazy header" alt="">
+						</div>
+						<div class="inner">
+							<div class="category">
+
+							</div>
+							<h2 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+							<a href="{{ post.url }}" class="date">{{ post.date }}</a>
+							<div class="stats">
+								<div class="author">
+									<a href="/author/blake/">Blake Bowling </a>
+								</div>
+							</div>
+						</div>
+					</article>
+			  {% endif %}
+			{% endfor %}
+		</div>
+	</div>
+</div>

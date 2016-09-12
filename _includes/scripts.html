@@ -1,0 +1,18 @@
+<!-- Scripts -->
+<script src="{{ "/js/jquery.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/jquery.scrollex.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/jquery.scrolly.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/skel.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/util.js" | prepend: site.baseurl }}"></script>
+<!--[if lte IE 8]><script src="{{ "/js/ie/respond.min.js" | prepend: site.baseurl }}"></script><![endif]-->
+<script src="{{ "/js/main.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/theme.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/highlight.pack.js" | prepend: site.baseurl }}"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<script type="text/javascript">
+  $(document).ready(function() {
+    var number = 1 + Math.floor(Math.random() * 5);
+    $('#main > header').css('background-image','url("/images/pic_'+number+'.jpg")');
+    $(".page  img").addClass("img-responsive");
+  });
+</script>
