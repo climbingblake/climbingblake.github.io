@@ -11,8 +11,11 @@
 <script>hljs.initHighlightingOnLoad();</script>
 <script type="text/javascript">
   $(document).ready(function() {
-    var number = 1 + Math.floor(Math.random() * 5);
-    $('#main > header').css('background-image','url("/images/pic_'+number+'.jpg")');
+    var first_img = $('.page img').first().attr('src') ;
+    $('#main > header').css('background-image','url("'+first_img+'")');
+
     $(".page  img").addClass("img-responsive");
+    //var number    = 1 + Math.floor(Math.random() * 5);
+    //$('#main > header').css('background-image','url("/images/pic_'+number+'.jpg")');
   });
 </script>

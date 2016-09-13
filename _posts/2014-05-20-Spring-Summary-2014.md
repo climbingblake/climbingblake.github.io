@@ -3,19 +3,33 @@ layout: page
 backgroundimage: http://blakebowling.s3.amazonaws.com/logos-backgrounds/paradise_lost.jpg
 ---
 
-![](http://blakebowling.s3.amazonaws.com/logos-backgrounds/paradise_lost.jpg)
+
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    <img src="http://blakebowling.s3.amazonaws.com/logos-backgrounds/paradise_lost.jpg" alt="Paradise Lost">
+  </div>
+</div>
 
 With the forcast showing hot/wet temps, having completed all my main spring goals, and a vacation in the near future, im willing to call it a season.
 
 ** Weather at the farm, May 25 2014**
 
-![](http://blakebowling.s3.amazonaws.com/2014/05/farm.jpg)
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    <img src="http://blakebowling.s3.amazonaws.com/2014/05/farm.jpg" alt="Farm">
+  </div>
+</div>
+
 
 Reflecting back, it seemed to have started rather late due to the bitterly cold winter, but after a few day trips to the Red, things started to pick up.
 
 ** Playing in the Madness Cave is tiring for everyone.**
 
-![](http://blakebowling.s3.amazonaws.com/2014/05/ranger-lode.jpg)
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    <img src="http://blakebowling.s3.amazonaws.com/2014/05/ranger-lode.jpg" alt="Ranger at the Lode">
+  </div>
+</div>
 
 <hr>
 
