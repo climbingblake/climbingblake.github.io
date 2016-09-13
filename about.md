@@ -37,7 +37,12 @@ I run the site [BadBolts.com](https://www.BadBolts.com), which crowd-sources rus
 
 Photo by Jakob Skogheim [www.jakobskogheim.com](http://www.jakobskogheim.com)
 
-
 Banner Photo by Jakob Skogheim [www.jakobskogheim.com](http://www.jakobskogheim.com)
+
+<div itemscope itemtype="http://schema.org/Person">
+<span itemprop="name">Blake Bowling</span>
+<span itemprop="company">@climbingblake</span>
+<a itemprop="email" href="mailto:blake@blakebowling.com">blake@blakebowling.com</a>
+</div>
 
 

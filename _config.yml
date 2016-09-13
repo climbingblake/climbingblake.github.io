@@ -9,7 +9,7 @@ owner: Blake # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: blake@blakebowling.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blakebowling.com" # the base hostname & protocol for your site
+url: "http://blakebowling.com" # the base hostname & protocol for your site
 permalink:  :title
 social:
   twitter: https://twitter.com/climbingblake
@@ -54,5 +54,5 @@ social:
 
 # Build settings
 markdown: kramdown
-#sass:
-#  style: compressed
+sass:
+ style: compressed
