@@ -6,4 +6,4 @@ backgroundimage: https://blakebowling.s3.amazonaws.com/2014/Jul/2014knox_DWS-140
 
 ![DWS](https://blakebowling.s3.amazonaws.com/2014/Jul/2014knox_DWS-1406173575055.jpg)
 
-I quick trip in the summer heat to Knoxville TN was worth the drive for some deep water soloing.
+A quick trip in the summer heat to Knoxville TN was worth the drive for some deep water soloing.
