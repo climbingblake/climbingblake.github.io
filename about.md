@@ -15,10 +15,11 @@ I run the site [BadBolts.com](https://www.BadBolts.com), which crowd-sources rus
 <img src="http://blakebowling.s3.amazonaws.com/logos-backgrounds/all_that_glitters_1.jpg"/>
 </div> 
 <div style ="width:50%; float:right;">
-<a href="http://evolvsports.com">National Team Member</a>
-<a href="http://jtreelife.com">Ambassador</a>
-<a href="http://badbolts.com">Founder</a>
-<a href="http://amga.com">Certified Instructor</a>
+<ul>
+<li><a href="http://evolvsports.com">National Team Member</a></li>
+<li><a href="http://jtreelife.com">Ambassador</a></li>
+<li><a href="http://badbolts.com">Founder</a></li>
+<li><a href="http://amga.com">Certified Instructor</a></li>
 
 </div>
 </div>
