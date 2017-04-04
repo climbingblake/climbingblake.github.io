@@ -11,6 +11,7 @@ I work as the software engineer and architect for the American Alpine Club, allo
 
 I run the site [BadBolts.com](https://www.BadBolts.com), which crowd-sources rusted or bad climbing hardware for allowing public acknowledgement, repairing efforts, and self reliance.
 
+<img src="http://blakebowling.s3.amazonaws.com/logos-backgrounds/all_that_glitters_1.jpg"/>
 [Blake@BlakeBowling.com](mailto:blake@blakebowling.com)
 
 * [Evolv](http://evolvsports.com) National Team Member
