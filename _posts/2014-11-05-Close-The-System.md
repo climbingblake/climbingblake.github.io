@@ -5,7 +5,7 @@ image: http://blakebowling.s3.amazonaws.com/2014/Oct/funeral_procession-400.jpg
 
 
 
-<h2><i>"This was the most scared that I have ever been. I knew I was alive, but I also knew my condition couldn’t be good after a 40 foot fall"</i></h2>
+<h2><i>"This was the most scared that I have ever been. I knew I was alive, but I also knew my condition couldn’t be good after a 45 foot fall"</i></h2>
 
 ![Carrying me out](http://blakebowling.s3.amazonaws.com/2014/Oct/funeral_procession-400.jpg)
 
@@ -99,7 +99,7 @@ Knowing that I would not be sending the route, I chose to take my larger diamete
 
 Having been on this route before with that particular rope, I didn’t have any reservations when I clipped the anchors and was lowered.  I was too excited about being close to the send!
 
-During the decent, I was talking to my belayer, discussing how optimistic I was regarding the route. At about 40' from the ground, I reached for the top of a small tree to turn myself in the air to face the cliff.  My belayer was paying attention to me, listening and watching me reach for the tree.
+During the decent, I was talking to my belayer, discussing how optimistic I was regarding the route. At about 45' from the ground, I reached for the top of a small tree to turn myself in the air to face the cliff.  My belayer was paying attention to me, listening and watching me reach for the tree.
 
 I felt the bottom drop out as I began to free fall. At first, I didn’t think too much of it.  Maybe there was a twist in the rope or something that had added slack to the system?  I waited and waited, but the rope never came tight. I heard the sound of the slack end of the rope whipping through the first several quickdraws on the route.  I was able to yell a short line of expletives once I understood that I was going to hit the ground.
 
