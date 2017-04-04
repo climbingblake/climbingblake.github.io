@@ -13,6 +13,7 @@ image: http://blakebowling.s3.amazonaws.com/2014/Oct/funeral_procession-400.jpg
 <sub><i>If you don’t understand sarcasm, are too literal, or squeamish, skip to the bottom</i></sub>
 
 On a random Friday, late in September of 2014, I had the pleasure of not only having my climbing pack carried from the crag to my vehicle, but also had old friends and new carry me like a king, got a super-fast ride back to the city, and was waited on hand and foot for hours. You too can have this, or a similar experience, if you follow these easy steps!
+
 #### 1: Climb
 #### 2: Train
 #### 3: Become Complacent
@@ -22,7 +23,9 @@ On a random Friday, late in September of 2014, I had the pleasure of not only h
 ![Gurny](http://blakebowling.s3.amazonaws.com/2014/Oct/gurny.jpg)
 
 ## Step 1
+
 #### Fall in love with climbing, learn and practice safety skills, and climb for more than 20 years.
+
 Once I found climbing, all other sports and recreations didn't stand a chance at holding my attention. I devoured everything climbing for years; I was climbing as much as possible while going to school and starting a programming career.  
 
 While working in climbing gyms, guiding high angle ropes and instructing rescue courses, I learned, developed, and taught climbing safety practices, becoming adept in the ways we can minimize the danger and risk inherent in the sport of climbing.
@@ -82,6 +85,7 @@ Last year a very accomplished climber [Shingo](http://www.outdoorresearch.com/bl
 <hr>
 
 ## Summary
+
 Climbing is dangerous and as willing participants in the sport, we accept the risk for the activity we love. Due to this risk, every climber should seek the knowledge and training to make good decisions every time they tie in, every time they belay. Please use my experience as a lesson and a reminder.
 
 Even with diligence, things can go wrong. Accidents do happen. Overlapping missed procedures, lack of knowledge, weather, the list goes on.
@@ -90,6 +94,7 @@ My accident was a result of a small set of missed procedures and human error. I 
 
 
 ## Senerio
+
 Knowing that I would not be sending the route, I chose to take my larger diameter "working" rope, as I would not need the lighter weight, newer, one.  When I moved the rope from one rope-tarp to the other, I failed to close the system.  I should have tied it to the loops of the tarp.  This would have given my belayer clear indication that the rope was too short to lower to the ground, and the knot would have prevented the rope from sliding through the device.  I would have been hanging in space, and it would have been a pain in the ass (as well as embarrassing) to get down safely, but there are techniques to do that. We would have gotten a big laugh out of it and I wouldn’t be writing this summary.
 
 Having been on this route before with that particular rope, I didn’t have any reservations when I clipped the anchors and was lowered.  I was too excited about being close to the send!
@@ -110,6 +115,7 @@ After a couple of casts and a surgery, I now have a plate in the distal radius o
 
 <hr>
 ### Special Thanks to
+
 all the climbers at the crag that day
 the Lee Co Rescue and Ambulance Service
 the American Alpine Club
