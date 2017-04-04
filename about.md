@@ -16,10 +16,10 @@ I run the site [BadBolts.com](https://www.BadBolts.com), which crowd-sources rus
 </div> 
 <div style ="width:50%; float:right;">
 <ul>
-<li><a href="http://evolvsports.com">National Team Member</a></li>
-<li><a href="http://jtreelife.com">Ambassador</a></li>
-<li><a href="http://badbolts.com">Founder</a></li>
-<li><a href="http://amga.com">Certified Instructor</a></li>
+<li><a href="http://evolvsports.com">Evolv National Team Member</a></li>
+<li><a href="http://jtreelife.com">Joshua Tree Ambassador</a></li>
+<li><a href="http://badbolts.com">BaBolts.com Founder</a></li>
+<li><a href="http://amga.com">AMGA Certified Instructor</a></li>
 </ul>
 </div>
 </div>
