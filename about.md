@@ -20,7 +20,7 @@ I run the site [BadBolts.com](https://www.BadBolts.com), which crowd-sources rus
 <li><a href="http://jtreelife.com">Ambassador</a></li>
 <li><a href="http://badbolts.com">Founder</a></li>
 <li><a href="http://amga.com">Certified Instructor</a></li>
-
+</ul>
 </div>
 </div>
 <hr style="clear:both">
