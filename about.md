@@ -14,25 +14,18 @@ I run the site [BadBolts.com](https://www.BadBolts.com), which crowd-sources rus
 <div style ="width:50%; float:left;">
 <img src="http://blakebowling.s3.amazonaws.com/logos-backgrounds/all_that_glitters_1.jpg"/>
 </div> 
-<div style ="width:50%; float:right;">
-<ul>
-<li><a href="http://evolvsports.com">Evolv National Team Member</a></li>
-<li><a href="http://jtreelife.com">Joshua Tree Ambassador</a></li>
-<li><a href="http://badbolts.com">BaBolts.com Founder</a></li>
-<li><a href="http://amga.com">AMGA Certified Instructor</a></li>
-</ul>
-</div>
-</div>
+
 <hr style="clear:both">
-<img style="float: right; width:200px; margin:8px" src="http://blakebowling.s3.amazonaws.com/logos-backgrounds/jtree.png" alt="Jtree Life" />
+
+<a href="http://jtreelife.com"><img style="float: right; width:200px; margin:8px" src="http://blakebowling.s3.amazonaws.com/logos-backgrounds/jtree.png" alt="Jtree Life" /></a>
 
 <img style="float: right; width:200px; margin:8px" src="http://blakebowling.s3.amazonaws.com/2014/04/aac_letter_logo.jpg" alt="AAC"/>
 
-<img style="float: right; width:200px; margin:8px" src="http://blakebowling.s3.amazonaws.com/logos-backgrounds/bad_bolts_3x4.png" alt="BadBolts.com"/>
+<a href="http://badbolts.com"><img style="float: right; width:200px; margin:8px" src="http://blakebowling.s3.amazonaws.com/logos-backgrounds/bad_bolts_3x4.png" alt="BadBolts.com"/></a>
 
-<img style="float: right; width:200px;margin:8px" src="http://blakebowling.s3.amazonaws.com/logos-backgrounds/evolv_200.png" alt="EvolvSports.com"/>
+<a href="http://evolvsports.com"><img style="float: right; width:200px;margin:8px" src="http://blakebowling.s3.amazonaws.com/logos-backgrounds/evolv_200.png" alt="EvolvSports.com"/></a>
 
-<img style="float: right; width:200px; margin:8px" src="http://blakebowling.s3.amazonaws.com/logos-backgrounds/amga_logo.jpg" alt="AMGA"/>
+<a href="http://amga.com"><img style="float: right; width:200px; margin:8px" src="http://blakebowling.s3.amazonaws.com/logos-backgrounds/amga_logo.jpg" alt="AMGA"/></a>
 
 
 <hr style="clear:both">
